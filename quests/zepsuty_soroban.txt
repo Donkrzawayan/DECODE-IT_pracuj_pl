@@ -1,0 +1,28 @@
+ZEPSUTY SOROBAN
+Leon, wujek Toma, ma warsztat, w którym przerabia różne klamoty, które wpadną mu w ręce. Z pozoru zwykły stolarz, ale niech Cię to nie zwiedzie – jest tam parę rzeczy, które już od dawna mamy na oku i przydałyby się nam na robocie. Jedyny sposób aby spokojnie się tam rozejrzeć, to zatrudnienie się u Leona, który może byłby i chętny, ale jest dość… oldskulowy. Ma Toma za półgłówka i jako warunek przyjęcia go do pracy wyznaczył Tomowi nauczenie się używania starego, samurajskiego liczydła, którego sam Leon używa do sumowania rachunków. Stare samurajskie liczydło nazywa się Soroban. Serio.
+br
+Liczydło “Soroban” pozwala prowadzić obliczenia w systemie dziesiętnym. Kolejne cyfry w systemie dziesiętnym reprezentowane są przez kolejne kolumny liczydła, zaczynając od prawej. Koraliki powyżej belki reprezentują wartość 5. Każdy koralik poniżej belki reprezentuje wartość 1. Konkretną cyfrę reprezentuje się dosuwając koraliki do belki na środku. Przykład: 7 pokazuje się dosuwając koralik powyżej belki (5) oraz dwa koraliki poniżej belki (1+1).
+br
+Podczas nauki Tom znalazł uszkodzone liczydło. Co prawda wszystkie koraliki powyżej górnej belki są na miejscu, jednak koraliki które powinny być poniżej belki wypadły, a co gorsza, część z nich się zgubiła. Tom postanowił, że naprawi liczydło tak, żeby miało jak największe możliwości. Czyli postanowił powkładać dolne koraliki do liczydła w taki sposób, żeby możliwe było reprezentowanie tak wielu liczb jak się da.
+br
+Oczywiście sam sobie z tym nie poradzi, więc pomóż mu to zrobić, zanim Leon straci cierpliwość!
+
+DANE WEJŚCIOWE
+Każdy zestaw danych zawiera dwie dodatnie liczby naturalne r oraz s podane w jednym wierszu i rozdzielone spacją:
+  – liczba kolumn liczydła,
+ – liczba koralików, które Johnny znalazł i chce umieścić poniżej dolnej belki liczydła.
+DANE WYJŚCIOWE
+Wypisz jedną wartość – największą liczbę poprawnych liczb, jaki można reprezentować na zepsutym Sorobanie po naprawach.
+PRZYKŁADY
+Wejście
+
+2 1
+Wyjście
+
+8
+Wejście
+
+2 3
+Wyjście
+
+24
