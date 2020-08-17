@@ -157,6 +157,9 @@
   <ItemGroup>
     <ClInclude Include="jawBreakerSolver.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\ostatnie_linijki.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
